@@ -1,0 +1,275 @@
+body{
+  font-family: Montserrat black;
+}
+h1{
+  font-size: 4rem;
+}
+
+.what-we-do p{
+  line-height: 1.5;
+  font-size: 1.2rem;
+}
+
+h3,h4{
+  font-size: 2.8rem;
+}
+
+p{
+  font-size: 1.2rem;
+}
+.cause h3{
+  padding: 3% 0;
+  font-size: 2.5rem;
+}
+
+.future{
+  height: 300px;
+}
+.cause img{
+  padding: 3%;
+}
+
+.same{
+  height: 300px;
+}
+
+.col-lg-3 img{
+  padding-top: 5%;
+}
+
+.peru{
+  font-weight: 300;
+  font-size: 1.2rem;
+  opacity: 0.75;
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+
+
+.top-slide a{
+  margin-top: 3.2rem;
+}
+
+.navigation{
+  padding: 0.5rem 5rem;
+}
+
+.navigation1{
+  margin-right: 7rem;
+  padding: 0 .5rem;
+}
+
+.cta{
+  text-align: center;
+}
+
+.emmy{
+  margin-right: 1.5rem;
+  font-size: 1.3rem;
+  background-color: #004AAD;
+  border: 0px solid white;
+  border-radius: 8px;
+  color: white;
+}
+.tobi{
+  margin-right: 1.5rem;
+  font-size: 1.3rem;
+  background-color: #004AAD;
+  border: 0px solid white;
+  border-radius: 8px;
+  color: white;
+  width: 50%;
+  margin: 0 25%;
+}
+
+.emma{
+  margin-right: 1.5rem;
+  font-size: 1.3rem;
+  background-color: #004AAD;
+  border: 0px solid white;
+  border-radius: 8px;
+  color: white;
+}
+
+.cause p{
+  width: 100%;
+  padding-bottom: 5%;
+  text-align: center;
+}
+.cause{
+
+}
+.four{
+  margin: 0 auto;
+}
+
+
+.tobi:hover{
+  background-color: #38B6FF;
+}
+
+.row div{
+  padding-bottom: 5%
+}
+.tobi-head{
+font-weight: 500;
+font-size: 1.7rem;
+font-family: Montserrat black;
+}
+.navigation-link{
+  font-size: 1.2rem;
+}
+
+.navigation1{
+  padding-left: 5%;
+}
+
+.logo{
+  height: 50px;
+  padding-right: 10px;
+  font-style: Ubuntu;
+  font-weight: 500;
+}
+
+
+.them{
+  top: 50%;
+  bottom: auto;
+  transform: translateY(-50%);
+}
+
+.them p{
+  font-size: 2rem;
+}
+
+.what-we-do{
+  margin: 100px ;
+text-align: center;
+}
+
+.what-we-do p{
+  line-height: 2;
+}
+
+.what-we-do h3{
+  margin-bottom: 3%;
+}
+
+.project-img{
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cause h3{
+  text-align: center;
+}
+
+.read-me{
+
+}
+
+.mission{
+  opacity: 0.75;
+}
+
+.vmv{
+  text-align: center;
+  background-color: #B2F9FC;
+  padding: 5% 8% 0;
+}
+
+
+.sdg{
+  padding: 0 8% ;
+}
+
+.sdg-image{
+  width: 100px;
+}
+
+.sdg a{
+  font-size: 2.8rem;
+}
+
+.cta{
+  padding: 3% 0 7%;
+  height: 200px;
+  background-color: #B2F9FC;
+}
+
+.cta h2{
+  margin-bottom: 30px;
+  font-size: 3rem;
+}
+
+
+#bottom{
+  padding: 30px 50px 60px ;
+  background: #B2F9FC;
+  text-align: center;
+}
+
+.footer-link{
+  color: black;
+  text-decoration: none;
+  padding:  0 3%;
+}
+
+.sdg-size{
+  width: 250px;
+  height: 250px;
+}
+
+
+.bottom-foot{
+  text-align: center;
+  color: black;
+
+}
+
+.sdg img{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.sdg-left img{
+
+}
+
+.sdg-right img{
+
+}
+
+.sdg-middle img{
+
+}
+
+.sdg h3{
+  text-align: center;
+  padding: 3%;
+}
+
+
+.testimonial{
+  padding: 5% 0 8%;
+}
+
+.reasons-titles{
+  position: relative;
+bottom: 0;
+text-align: center;
+background: #004AAD;
+width: 100%;
+color: #fff;
+text-transform: uppercase;
+height: 125px;
+padding: 25px 0;
+}
+
+.reasons-col img{
+  width: 100%;
+}
